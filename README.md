@@ -16,6 +16,9 @@
 ![Spreadsheet](https://img.shields.io/badge/Spreadsheet-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
+### 📄 Certifications
+[![View Certificates](https://img.shields.io/badge/View%20Certificates-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1jRA9KBI440kcdrDLHNpFLTLWhBEUreP0?usp=drive_link)
+
 ### 📈 GitHub Stats
 
 <p align="center">
